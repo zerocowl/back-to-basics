@@ -1,0 +1,20 @@
+{
+  "name": "back-to-basics",
+  "version": "1.0.0",
+  "description": "back to basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocowl/back-to-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerocowl/back-to-basics/issues"
+  },
+  "homepage": "https://github.com/zerocowl/back-to-basics#readme"
+}
